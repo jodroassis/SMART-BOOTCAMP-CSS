@@ -1,2 +1,2 @@
-# SMART-BOOTCAMP-CSS-TIPOS
+# SMART BOOTCAMP CSS TIPOS
 Repositório com exemplos de diferenças entre css interno, externo e embutido.
