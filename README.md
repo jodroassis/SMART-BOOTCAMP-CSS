@@ -1,2 +1,2 @@
-# SMART BOOTCAMP CSS TIPOS
-Repositório com exemplos de diferenças entre css interno, externo e embutido.
+# Tipos de CSS
+Exercício sobre os tipos de CSS: inline, embutido e externo.
